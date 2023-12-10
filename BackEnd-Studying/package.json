@@ -1,0 +1,1 @@
+{"type":"module","name":"backend-studying","version":"1.0.0","description":"","main":"app.js","devDependencies":{"ethers":"^6.9.0","express":"^4.18.2"},"scripts":{"start":"nodemon app.js"},"author":"Salbt","license":"MIT","dependencies":{"body-parser":"^1.20.2","dotenv":"^16.3.1","ejs":"^3.1.9","express-fileupload":"^1.4.3","kubo-rpc-client":"^3.0.2","nodemon":"^3.0.2"}}
